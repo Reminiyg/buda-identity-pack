@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "identity_name": "buda_canonical",
+  "base_url": "https://raw.githubusercontent.com/Reminiyg/buda-identity-pack/main/",
+  "images": [
+    "BUDA_ape face shot_edited (1).png",
+    "BUDA_ape outfit shot.png",
+    "Backshot 1.png",
+    "close shot - pick up the beanie.png",
+    "close shot of sunglasses.png",
+    "Ape playing accordian .png",
+    "Ape playing drum.png",
+    "Ape playing guitar.png",
+    "Ape playing keystar .png",
+    "Ape playing piano 1.png"
+  ],
+  "primary_refs": [
+    "BUDA_ape face shot_edited (1).png",
+    "BUDA_ape outfit shot.png"
+  ],
+  "notes": "Canonical outfit only. Use 1 face close-up + 1 full-body reference per render."
+}
